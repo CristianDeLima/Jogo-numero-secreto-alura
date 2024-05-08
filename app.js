@@ -1,6 +1,6 @@
 let tentativas = 1;
 let palavraTentativas = tentativas > 1 ? " tentativas" : " tentativa";
-let numeroMaximo = 100;
+let numeroMaximo = 10;
 let numeroAleatorio = gerarNumeroAleatorio()
 
 function exibirTextoNaTela(tag, texto) {
