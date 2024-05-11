@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p align="left">Projeto utilizado nos cursos de lógica de programação em JavaScript da Alura.</p>
 
 ###
 
